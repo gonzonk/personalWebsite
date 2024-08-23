@@ -1,0 +1,6 @@
+header {
+    background-color: rgb(231, 231, 231);
+    grid-column: 3/ span 4;
+
+    text-align: start;
+}

@@ -1,0 +1,15 @@
+main {
+    grid-column: 3/ span 8;
+
+    background-color: bisque;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin: 0px 10px 0px 10px
+}
