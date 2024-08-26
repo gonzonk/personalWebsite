@@ -1,5 +1,5 @@
 nav {
-    background-color:aliceblue ;
+    background-color: rgb(0, 48, 63) ;
     grid-column: 7/ span 4;
 
     place-content: center end;
@@ -15,4 +15,24 @@ nav ul {
 nav ul li {
     float: right;
     margin: 0px 10px 0px 10px
+}
+
+nav ul li a {
+    color: aliceblue;
+    font-size: 1.5rem;
+}
+
+nav ul li a {
+    color: aliceblue;
+    font-size: 1.5rem;
+}
+
+nav ul li a:visited {
+    color: rgb(175, 146, 255);
+    font-size: 1.5rem;
+}
+
+nav ul li a:hover{
+    color: rgb(255, 202, 152);
+    font-size: 1.5rem;
 }

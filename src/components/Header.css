@@ -1,6 +1,11 @@
 header {
-    background-color: rgb(231, 231, 231);
+    background-color: rgb(0, 48, 63);
     grid-column: 3/ span 4;
 
     text-align: start;
+}
+
+header h1 {
+    margin-left: 1rem;
+    color: aliceblue;
 }

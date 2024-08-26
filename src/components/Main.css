@@ -13,3 +13,9 @@ ul {
 li {
     margin: 0px 10px 0px 10px
 }
+
+button {
+    background-color: aliceblue;
+    border: none;
+    box-shadow: rgb(148, 154, 158) 2px 2px 3px;
+}

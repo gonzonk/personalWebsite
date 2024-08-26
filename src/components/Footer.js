@@ -1,6 +1,8 @@
 function Footer(props){
     return (
-        <footer></footer>
+        <footer>
+
+        </footer>
     )
 }
 
