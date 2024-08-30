@@ -13,10 +13,6 @@ function Main(props){
         <main>
             <h2>About</h2>
                 <p>{aboutMeString}</p>
-            <h2>Projects</h2>
-                <ul className='projectList'>
-                    <li><a href='/project'>project</a></li>
-                </ul>
             <h2>Coursework</h2>
                 <p style={{display:'inline'}}>Current: {currentCourseworkString}   </p>
                 <button style={{display:'inline'}} type="button" className="pastCoursework" onClick={(e) => setIsCollapsed(!isCollapsed)}>
