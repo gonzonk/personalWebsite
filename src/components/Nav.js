@@ -6,7 +6,7 @@ function Nav(props){
         <nav className='nav'>
             <ul>
                 <li><a href={resume} download='GonzaloEsparzasResume'>Resume</a></li>
-                <li><a href="/">Home</a></li>
+                <li><a href="/personalWebsite">Home</a></li>
             </ul>
         </nav>
     )

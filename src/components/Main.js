@@ -1,7 +1,7 @@
 import './Main.css';
 import { useState } from 'react';
 
-const aboutMeString = "Hello! I'm Gonzalo Esparza a junior at the Massachussets Institute of Technology, studying Computer Science Engineering. I have a particular interest in machine learning and game development!!!!!!";
+const aboutMeString = "Hello! I'm Gonzalo Esparza a junior at the Massachussets Institute of Technology, studying Computer Science Engineering. I have a particular interest in full stack web development, game development, and machine learning";
 const currentCourseworkString = "Software Design, Introduction to Algorithms, Computation Structures, Introduction to Probability, Intro to Machine Learning";
 const pastCourseworkString = 'Introduction to Computer Science Programming in Python, Introduction to Computational Thinking and Data Science, Fundamentals of Programming, Software Construction, Introduction to Low-Level Programming, +General Institue Requirements'
 
