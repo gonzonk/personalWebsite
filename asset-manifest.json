@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/personalWebsite/static/css/main.6cb00fcf.css",
-    "main.js": "/personalWebsite/static/js/main.08b8e0e6.js",
+    "main.js": "/personalWebsite/static/js/main.801d6c9d.js",
     "static/js/453.253ccfac.chunk.js": "/personalWebsite/static/js/453.253ccfac.chunk.js",
     "static/media/orangeBlackFuiterAurora.jpeg": "/personalWebsite/static/media/orangeBlackFuiterAurora.891a4d1c247f21e5ef00.jpeg",
     "static/media/resume.pdf": "/personalWebsite/static/media/resume.ea856a2ccc80eeccd9c3.pdf",
     "static/media/logo.svg": "/personalWebsite/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/personalWebsite/index.html",
     "main.6cb00fcf.css.map": "/personalWebsite/static/css/main.6cb00fcf.css.map",
-    "main.08b8e0e6.js.map": "/personalWebsite/static/js/main.08b8e0e6.js.map",
+    "main.801d6c9d.js.map": "/personalWebsite/static/js/main.801d6c9d.js.map",
     "453.253ccfac.chunk.js.map": "/personalWebsite/static/js/453.253ccfac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6cb00fcf.css",
-    "static/js/main.08b8e0e6.js"
+    "static/js/main.801d6c9d.js"
   ]
 }
